@@ -1,0 +1,9 @@
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# 不使用三方包
+node_modules
+# config

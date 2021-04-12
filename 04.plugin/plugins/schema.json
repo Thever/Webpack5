@@ -1,0 +1,16 @@
+{
+    "type":"object",
+    "properties":{
+        "from":{
+            "type":"string"
+        },
+        "to":{
+            "type":"string"
+        }
+        ,
+        "ignore":{
+            "type":"array"
+        }
+    },
+    "additionalProperties": false
+}

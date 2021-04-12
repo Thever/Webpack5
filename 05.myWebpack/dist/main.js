@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(1+2),console.log(function(o,n){return o-n}(3,1))})();
